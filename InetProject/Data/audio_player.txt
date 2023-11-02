@@ -1,0 +1,16 @@
+- Sample files
+https://www.tanbinhtech.com:8443/sample1.wav
+https://www.tanbinhtech.com:8443/sample10.wav
+http://ice10.outlaw.fm/KIEV2
+
+Iterations:
+
+- Write a Java application that downloads an .mav file:
+  (Manually play the file [third-party  application])
+- Write a Java application that downloads and plays [do not use
+  third-party libraries]
+  a .wav file
+  (a) Download FIRST, THEN play the file
+  (b) Downlaod AND play the file
+- Write a Java application that plays  online radios [.mp3] [you can
+use third-party libraries]
