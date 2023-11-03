@@ -12,7 +12,7 @@ public class schoolwork {
 
 	public static void main(String[] args) {
 		String path = "Data\\";
-		String file = "audio.txt";
+		String file = "IPList.txt";
 		try {
 			Reader reader = new InputStreamReader(new FileInputStream(new File(path+file)));
 			int r;
