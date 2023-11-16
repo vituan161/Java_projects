@@ -46,7 +46,7 @@ public class DictClient {
 
 			writer.write("quit\r\n");
 
-			//writer.write("quit.");
+			// writer.write("quit.");
 
 			writer.flush();
 
@@ -80,7 +80,7 @@ public class DictClient {
 
 		writer.write("DEFINE fd-eng-lat " + word + "\r\n");
 
-		//writer.write("DEFINE fd-eng-lat " + word + ".");
+		// writer.write("DEFINE fd-eng-lat " + word + ".");
 
 		writer.flush();
 

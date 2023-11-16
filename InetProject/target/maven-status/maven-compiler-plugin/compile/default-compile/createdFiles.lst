@@ -1,5 +1,10 @@
-eiu\cit\netprog\SourceViewer.class
+eiu\cit\netprog\callBackServer.class
 eiu\cit\netprog\App.class
+eiu\cit\netprog\DaytimeServer.class
+eiu\cit\netprog\callBackClient.class
+eiu\cit\netprog\ElisaChatBox.class
+eiu\cit\netprog\SourceViewer.class
+eiu\cit\netprog\DaytimeClient.class
 eiu\cit\netprog\DictClient.class
 eiu\cit\netprog\schoolwork.class
 eiu\cit\netprog\LowPortScanner.class
