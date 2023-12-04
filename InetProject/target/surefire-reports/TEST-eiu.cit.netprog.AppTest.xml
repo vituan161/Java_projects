@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="eiu.cit.netprog.AppTest" time="0.032" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="eiu.cit.netprog.AppTest" time="0.015" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="18"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18.0.1.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\acer\AppData\Local\Temp\surefire10469927082945489916\surefirebooter-20231130124914286_3.jar C:\Users\acer\AppData\Local\Temp\surefire10469927082945489916 2023-11-30T12-49-14_045-jvmRun1 surefire-20231130124914286_1tmp surefire_0-20231130124914286_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\acer\AppData\Local\Temp\surefire13255182633405299432\surefirebooter-20231204124642021_3.jar C:\Users\acer\AppData\Local\Temp\surefire13255182633405299432 2023-12-04T12-46-41_902-jvmRun1 surefire-20231204124642021_1tmp surefire_0-20231204124642021_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\tuan\CSE306 - Network Programing\Java_projects\InetProject\target\test-classes;D:\tuan\CSE306 - Network Programing\Java_projects\InetProject\target\classes;C:\Users\acer\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\acer\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\acer\.m2\repository\javazoom\jlayer\1.0.1\jlayer-1.0.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\acer\AppData\Local\Temp\surefire10469927082945489916\surefirebooter-20231130124914286_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\acer\AppData\Local\Temp\surefire13255182633405299432\surefirebooter-20231204124642021_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="18.0.1.1+2-6"/>
@@ -56,5 +56,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="62.0"/>
   </properties>
-  <testcase name="testApp" classname="eiu.cit.netprog.AppTest" time="0.005"/>
+  <testcase name="testApp" classname="eiu.cit.netprog.AppTest" time="0.001"/>
 </testsuite>

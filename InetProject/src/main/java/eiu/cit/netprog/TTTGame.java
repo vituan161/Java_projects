@@ -10,6 +10,15 @@ public class TTTGame {
 		this.board = new char[9];
 		
 	}
+	
+	public TTTGame(String board) {
+		char[] b = new char[9];
+		for(int i = 0;i<b.length;i++) {
+			b[i] = board.charAt(2*i);
+			System.out.print(b[i]+" ");
+		}
+		this.board = b;
+	}
 
 	public char[] getBoard() {
 		return board;
